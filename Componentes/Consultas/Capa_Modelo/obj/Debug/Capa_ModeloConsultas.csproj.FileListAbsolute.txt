@@ -3,9 +3,3 @@ C:\Users\ester\Workspace\2 Bancos\proyectofinalasis222022\Codigo\Componentes\Con
 C:\Users\ester\Workspace\2 Bancos\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.CoreCompileInputs.cache
 C:\Users\ester\Workspace\2 Bancos\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.dll
 C:\Users\ester\Workspace\2 Bancos\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.pdb
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.dll
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.pdb
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.AssemblyReference.cache
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.CoreCompileInputs.cache
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.dll
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.pdb

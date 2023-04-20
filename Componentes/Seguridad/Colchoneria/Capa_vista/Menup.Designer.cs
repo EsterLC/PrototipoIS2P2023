@@ -76,7 +76,7 @@ namespace Vista_Seguridad
             this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button7.Font = new System.Drawing.Font("Arial Rounded MT Bold", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
-            this.button7.Location = new System.Drawing.Point(0, 436);
+            this.button7.Location = new System.Drawing.Point(0, 449);
             this.button7.Margin = new System.Windows.Forms.Padding(4);
             this.button7.Name = "button7";
             this.button7.Padding = new System.Windows.Forms.Padding(13, 0, 0, 0);
@@ -95,7 +95,7 @@ namespace Vista_Seguridad
             this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button6.Font = new System.Drawing.Font("Arial Rounded MT Bold", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
-            this.button6.Location = new System.Drawing.Point(0, 388);
+            this.button6.Location = new System.Drawing.Point(0, 401);
             this.button6.Margin = new System.Windows.Forms.Padding(4);
             this.button6.Name = "button6";
             this.button6.Padding = new System.Windows.Forms.Padding(13, 0, 0, 0);
@@ -114,7 +114,7 @@ namespace Vista_Seguridad
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button5.Font = new System.Drawing.Font("Arial Rounded MT Bold", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
-            this.button5.Location = new System.Drawing.Point(0, 340);
+            this.button5.Location = new System.Drawing.Point(0, 353);
             this.button5.Margin = new System.Windows.Forms.Padding(4);
             this.button5.Name = "button5";
             this.button5.Padding = new System.Windows.Forms.Padding(13, 0, 0, 0);
@@ -132,7 +132,7 @@ namespace Vista_Seguridad
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button4.Font = new System.Drawing.Font("Arial Rounded MT Bold", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
-            this.button4.Location = new System.Drawing.Point(0, 292);
+            this.button4.Location = new System.Drawing.Point(0, 305);
             this.button4.Margin = new System.Windows.Forms.Padding(4);
             this.button4.Name = "button4";
             this.button4.Padding = new System.Windows.Forms.Padding(13, 0, 0, 0);
@@ -150,7 +150,7 @@ namespace Vista_Seguridad
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Arial Rounded MT Bold", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
-            this.button2.Location = new System.Drawing.Point(0, 244);
+            this.button2.Location = new System.Drawing.Point(0, 257);
             this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
             this.button2.Padding = new System.Windows.Forms.Padding(13, 0, 0, 0);
@@ -170,7 +170,7 @@ namespace Vista_Seguridad
             this.panelProcesos.Location = new System.Drawing.Point(0, 144);
             this.panelProcesos.Margin = new System.Windows.Forms.Padding(4);
             this.panelProcesos.Name = "panelProcesos";
-            this.panelProcesos.Size = new System.Drawing.Size(316, 100);
+            this.panelProcesos.Size = new System.Drawing.Size(316, 113);
             this.panelProcesos.TabIndex = 8;
             this.panelProcesos.Visible = false;
             // 
@@ -179,7 +179,7 @@ namespace Vista_Seguridad
             this.panelMantenimiento.Controls.Add(this.btnEstadoCuenta);
             this.panelMantenimiento.Location = new System.Drawing.Point(0, 55);
             this.panelMantenimiento.Name = "panelMantenimiento";
-            this.panelMantenimiento.Size = new System.Drawing.Size(316, 42);
+            this.panelMantenimiento.Size = new System.Drawing.Size(316, 59);
             this.panelMantenimiento.TabIndex = 9;
             this.panelMantenimiento.Visible = false;
             // 
@@ -196,9 +196,9 @@ namespace Vista_Seguridad
             this.btnEstadoCuenta.Margin = new System.Windows.Forms.Padding(4);
             this.btnEstadoCuenta.Name = "btnEstadoCuenta";
             this.btnEstadoCuenta.Padding = new System.Windows.Forms.Padding(40, 0, 0, 0);
-            this.btnEstadoCuenta.Size = new System.Drawing.Size(316, 42);
+            this.btnEstadoCuenta.Size = new System.Drawing.Size(316, 48);
             this.btnEstadoCuenta.TabIndex = 12;
-            this.btnEstadoCuenta.Text = "Puestos";
+            this.btnEstadoCuenta.Text = "Tipo Puesto";
             this.btnEstadoCuenta.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnEstadoCuenta.UseVisualStyleBackColor = false;
             this.btnEstadoCuenta.Click += new System.EventHandler(this.btnEstadoCuenta_Click);

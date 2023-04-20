@@ -16,12 +16,12 @@ C:\Users\ester\OneDrive\Escritorio\PrototipoEF\PrototipoEF\Codigo\Componentes\Co
 C:\Users\ester\OneDrive\Escritorio\PrototipoEF\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.csproj.CopyComplete
 C:\Users\ester\OneDrive\Escritorio\PrototipoEF\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.dll
 C:\Users\ester\OneDrive\Escritorio\PrototipoEF\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.pdb
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_ControladorConsultas.dll
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_ControladorConsultas.pdb
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_Modelo.dll
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_Modelo.pdb
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.csproj.AssemblyReference.cache
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.csproj.CoreCompileInputs.cache
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.csproj.CopyComplete
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.dll
-C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Navegador V.1\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Navegador V.1\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_ControladorConsultas.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Navegador V.1\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_Modelo.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Navegador V.1\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_Modelo.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Navegador V.1\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.csproj.AssemblyReference.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Navegador V.1\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.csproj.CoreCompileInputs.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Navegador V.1\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.csproj.CopyComplete
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Navegador V.1\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\Navegador V.1\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.pdb

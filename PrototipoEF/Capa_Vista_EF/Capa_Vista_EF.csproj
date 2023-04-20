@@ -52,23 +52,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AyudaIngresoNotas.cs">
+    <Compile Include="Tipo_Puesto.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AyudaIngresoNotas.Designer.cs">
-      <DependentUpon>AyudaIngresoNotas.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Cursos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Cursos.Designer.cs">
-      <DependentUpon>Cursos.cs</DependentUpon>
-    </Compile>
-    <Compile Include="IngresarNotas.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="IngresarNotas.Designer.cs">
-      <DependentUpon>IngresarNotas.cs</DependentUpon>
+    <Compile Include="Tipo_Puesto.Designer.cs">
+      <DependentUpon>Tipo_Puesto.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -76,14 +64,8 @@
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="AyudaIngresoNotas.resx">
-      <DependentUpon>AyudaIngresoNotas.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Cursos.resx">
-      <DependentUpon>Cursos.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="IngresarNotas.resx">
-      <DependentUpon>IngresarNotas.cs</DependentUpon>
+    <EmbeddedResource Include="Tipo_Puesto.resx">
+      <DependentUpon>Tipo_Puesto.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

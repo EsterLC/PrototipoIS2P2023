@@ -8,43 +8,13 @@ using System.Data.Odbc;
 
 namespace NavegadorModelo
 {
-    public class Conexion
+    class Conexion
     {
         //Clase de conexion --------------
-        /*public Tuple<OdbcConnection, OdbcTransaction> conexion()
-        {
-            //creacion de la conexion via ODBC
-            OdbcConnection conectar = new OdbcConnection("Dsn=PrototipoEF");
-            OdbcTransaction transaction = conectar.BeginTransaction();
-            try
-            {
-                conectar.Open();
-    
-            }
-            catch (OdbcException)
-            {
-                Console.WriteLine("No Conectó");
-            }
-            return Tuple.Create(conectar, transaction);
-        }
-
-        //metodo para cerrar la conexion
-        public void desconexion(OdbcConnection conectar)
-        {
-            try
-            {
-                conectar.Close();
-            }
-            catch (OdbcException)
-            {
-                Console.WriteLine("No Conectó");
-            }
-        }
-    }*/
         public OdbcConnection conexion()
         {
             //creacion de la conexion via ODBC
-            OdbcConnection conn = new OdbcConnection("Dsn=Colchoneria");
+            OdbcConnection conn = new OdbcConnection("Dsn=PrototipoEF");
             try
             {
                 conn.Open();
@@ -55,14 +25,18 @@ namespace NavegadorModelo
             }
             return conn;
         }
-        /*
-        public Tuple<OdbcConnection, OdbcTransaction> conexion()
+
+        //metodo para cerrar la conexion
+        public void desconexion(OdbcConnection conn)
         {
-            OdbcConnection conectar = new OdbcConnection("Dsn=PrototipoEF");
-            conectar.Open();
-            OdbcTransaction transaction = conectar.BeginTransaction();
-            return Tuple.Create(conectar, transaction);
+            try
+            {
+                conn.Close();
+            }
+            catch (OdbcException)
+            {
+                Console.WriteLine("No Conectó");
+            }
         }
-        */
     }
 }

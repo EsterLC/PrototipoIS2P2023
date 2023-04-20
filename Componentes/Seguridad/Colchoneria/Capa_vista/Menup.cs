@@ -132,7 +132,7 @@ namespace Vista_Seguridad
 
         private void btnEstadoCuenta_Click(object sender, EventArgs e)
         {
-            Capa_Vista_EF.IngresarNotas b = new Capa_Vista_EF.IngresarNotas();
+            Capa_Vista_EF.Tipo_Puesto b = new Capa_Vista_EF.Tipo_Puesto();
             b.MdiParent = this;
             b.Show();
             cn.setBtitacora("7000", "Ingresar Notas");
@@ -140,10 +140,7 @@ namespace Vista_Seguridad
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Capa_Vista_EF.Cursos b = new Capa_Vista_EF.Cursos();
-            b.MdiParent = this;
-            b.Show();
-            cn.setBtitacora("7001", "Cursos");
+            
         }
 
         private void button7_Click(object sender, EventArgs e)

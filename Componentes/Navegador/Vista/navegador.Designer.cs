@@ -119,7 +119,7 @@ namespace NavegadorVista
             this.btnUpdate.Text = "Actualizar";
             this.btnUpdate.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnUpdate.UseVisualStyleBackColor = true;
-            //this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // btnConsultar
             // 
@@ -233,7 +233,7 @@ namespace NavegadorVista
             this.btnEnd.Text = "Fin";
             this.btnEnd.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnEnd.UseVisualStyleBackColor = true;
-            //this.btnEnd.Click += new System.EventHandler(this.btnEnd_Click);
+            this.btnEnd.Click += new System.EventHandler(this.btnEnd_Click);
             // 
             // btnExit
             // 
